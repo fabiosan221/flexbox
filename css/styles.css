@@ -25,6 +25,23 @@
   font-weight: 500;
 }
 
+.menu-nav{  
+  border: 1px solid #0dcaf0;  
+}
+
+.menu-nav:hover{  
+  background-color: #0dcaf0;
+  color: #000000;
+}
+
+.color-menu-nav{
+  color: #0dcaf0;  
+}
+
+.color-menu-nav:hover{
+  color: #000000;  
+}
+
 /* ---------------------------------------------------------------Estilos FlexBox--------------------------------------------------------------- */
 .flex-content {  
   width: 500px;
